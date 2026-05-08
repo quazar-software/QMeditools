@@ -4,6 +4,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="SamplesCPP/SamplesCPP.vcxproj" />
+  <Project Path="SamplesCPP/SamplesCPP.vcxproj" Id="7ff047ea-7186-4720-b2fe-689bcc06fb8d" />
   <Project Path="SamplesCSharp/SamplesCSharp.csproj" />
 </Solution>

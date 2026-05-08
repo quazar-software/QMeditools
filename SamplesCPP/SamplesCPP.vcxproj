@@ -132,6 +132,7 @@
     <ClCompile Include="Example_ECHO.cpp" />
     <ClCompile Include="Example_FIND.cpp" />
     <ClCompile Include="Example_MOVE.cpp" />
+    <ClCompile Include="Example_MWL.cpp" />
     <ClCompile Include="Example_SCP.cpp" />
     <ClCompile Include="Example_SCU.cpp" />
     <ClCompile Include="Example_STORE.cpp" />
